@@ -3,4 +3,4 @@
 </p>
 These are parts (created with eagle) for a ESP32 Dev Board. You also find the bom file inside.
 
-I called it Egon Board, because i'm not that ingenious and basically my dogs name is Egon. <img width="34" height="27" src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard_head.png">
+I called it Egon Board, because i'm not that ingenious and basically my dogs name is Egon. <img width="24" height="19" src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard_head.png">

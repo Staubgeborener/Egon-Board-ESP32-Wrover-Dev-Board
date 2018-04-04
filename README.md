@@ -1,5 +1,5 @@
-## Egon Bord
-# ESP32 Wrover DevBoard
+# Egon Bord
+## ESP32 Wrover DevBoard
 
 ![alt text](https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard.png "Logo")
 

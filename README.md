@@ -5,7 +5,7 @@ These are parts (created with eagle) for a ESP32 Dev Board. You also find the bo
 The board has support for a sd card adapter and also for LiPo. Keep in mind, that this pcb is for the ESP32 **Wrover** NOT for the wroom (different pinout)!
 
 
-All necessary parts are in this repo. So you can just download this and create the pcb at you manufactory of trust.
+All necessary parts are in this repo. So you can just download this and create the pcb at your manufactory of trust.
 
 
 

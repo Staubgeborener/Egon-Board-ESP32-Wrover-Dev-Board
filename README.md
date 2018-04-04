@@ -11,7 +11,9 @@ All necessary parts are in this repo. So you can just download this and create t
 
 I called it Egon Board, because i'm not that ingenious and basically my dogs name is Egon. Love you, boy. <img width="24" height="19" src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard_head.png">
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Staubgeborener/Egon-Board-ESP32-Wrover-Dev-Board/master/media/egonboard_picture.jpg">
+</p>
 
 But just take a closer look:
 <img src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/front.png">

@@ -4,9 +4,11 @@
 These are parts (created with eagle) for a ESP32 Dev Board. You also find the bom file inside.
 The board has support for a sd card adapter and also for LiPo. Keep in mind, that this pcb is for the ESP32 **Wrover** NOT for the wroom (different pinout)!
 
+
 I called it Egon Board, because i'm not that ingenious and basically my dogs name is Egon. Love you, boy. <img width="24" height="19" src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard_head.png">
 
 
-Take a closer look:
+
+But just take a closer look:
 <img src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/front.png">
 <img src="https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/back.png">

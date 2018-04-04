@@ -1,7 +1,7 @@
 # Egon Board
 ## ESP32 Wrover DevBoard
 
-![](https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard.png width=50)
+![](https://raw.githubusercontent.com/Staubgeborener/-Egon-Board-ESP32-Wrover-Dev-Board-/master/media/egonboard.png =250x250)
 
 These are parts (created with eagle) for a ESP32 Dev Board. You also find the bom file inside.
 
